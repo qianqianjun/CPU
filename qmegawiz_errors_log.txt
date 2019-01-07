@@ -1,0 +1,91 @@
+
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_latch0.vhd
+
+Jan 06 11PM:27:49>: Megafunction LPM_LATCH is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_latch0.vhd
+
+Jan 06 11PM:27:51>: Megafunction LPM_LATCH is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_latch0.vhd
+
+Jan 06 11PM:27:52>: Megafunction LPM_LATCH is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_latch0.vhd
+
+Jan 07 12AM:23:48>: Megafunction LPM_LATCH is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_latch0.vhd
+
+Jan 07 12AM:25:09>: Megafunction LPM_LATCH is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:08>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:09>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:15>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:16>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:17>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:18>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:18>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_bustri0.vhd
+
+Jan 07 09AM:01:21>: Megafunction LPM_BUSTRI is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_ram_dq0.vhd
+
+Jan 07 03PM:12:41>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_ram_dq0.vhd
+
+Jan 07 03PM:12:42>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_ram_dq0.vhd
+
+Jan 07 03PM:12:45>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_rom0.vhd
+
+Jan 07 07PM:13:57>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+G:/EXPT_5_B4_CPU8B_CPLEX_INS/lpm_rom0.vhd
+
+Jan 07 07PM:14:01>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

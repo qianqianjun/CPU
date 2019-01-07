@@ -1,0 +1,114 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "graphic" (version "1.4"))
+(symbol
+	(rect 672 248 816 408)
+	(text "ALU_MD_G" (rect 5 0 71 14)(font "Arial" (font_size 8)))
+	(text "inst10" (rect 8 144 37 156)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "T4" (rect 0 0 14 14)(font "Arial" (font_size 8)))
+		(text "T4" (rect 21 27 35 41)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "IR[3..0]" (rect 0 0 38 14)(font "Arial" (font_size 8)))
+		(text "IR[3..0]" (rect 21 43 59 57)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48)(line_width 3))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "LDRI" (rect 0 0 25 14)(font "Arial" (font_size 8)))
+		(text "LDRI" (rect 21 59 46 73)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "RD_B" (rect 0 0 31 14)(font "Arial" (font_size 8)))
+		(text "RD_B" (rect 21 75 52 89)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "RS_B" (rect 0 0 31 14)(font "Arial" (font_size 8)))
+		(text "RS_B" (rect 21 91 52 105)(font "Arial" (font_size 8)))
+		(line (pt 0 96)(pt 16 96))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "RJ_B" (rect 0 0 29 14)(font "Arial" (font_size 8)))
+		(text "RJ_B" (rect 21 107 50 121)(font "Arial" (font_size 8)))
+		(line (pt 0 112)(pt 16 112))
+	)
+	(port
+		(pt 144 32)
+		(bidir)
+		(text "BUS[7..0]" (rect 0 0 53 14)(font "Arial" (font_size 8)))
+		(text "BUS[7..0]" (rect 70 27 123 41)(font "Arial" (font_size 8)))
+		(line (pt 144 32)(pt 128 32)(line_width 3))
+	)
+	(drawing
+		(rectangle (rect 16 16 128 144))
+	)
+)
+(connector
+	(text "LDRI" (rect 642 296 667 308)(font "Arial" ))
+	(pt 672 312)
+	(pt 648 312)
+)
+(connector
+	(text "RD_B" (rect 648 312 677 324)(font "Arial" ))
+	(pt 632 328)
+	(pt 672 328)
+)
+(connector
+	(text "RS_B" (rect 650 328 678 340)(font "Arial" ))
+	(pt 672 344)
+	(pt 648 344)
+)
+(connector
+	(text "RJ_B" (rect 650 344 677 356)(font "Arial" ))
+	(pt 672 360)
+	(pt 648 360)
+)
+(connector
+	(text "T4" (rect 626 264 637 276)(font "Arial" ))
+	(pt 624 280)
+	(pt 672 280)
+)
+(connector
+	(text "BUS[3..0]" (rect 594 280 642 292)(font "Arial" ))
+	(pt 592 296)
+	(pt 672 296)
+	(bus)
+)
+(connector
+	(pt 816 280)
+	(pt 824 280)
+	(bus)
+)
